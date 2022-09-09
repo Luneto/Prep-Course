@@ -1,0 +1,4 @@
+for: se ultiza para repetir el codigo hasta que algo que eliges pase. ejemplo: sumar 1 a un numero hasta llegar a 100 
+&&: "And" o "Y" se usa cuando quieres especificar lo que quieres. como un perro pero color cafe
+||: "Or" o "O" se utiliza cuando no importa el color del perro. das opciones y solo tiene que cumplir una de esas opciones. 
+!: Not se utiliza cuando no sabes que opciones hay pero sabes lo que no quieres. si no quieres que sea negro !== negro.
