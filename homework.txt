@@ -1,0 +1,1 @@
+Arrays: un array es como una caja que guarda varias cosas y las tiene en orden.
