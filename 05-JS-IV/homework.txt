@@ -1,0 +1,5 @@
+Objetos: un objecto es como un array(la caja) pero mas ordenado, como una carpeta personal. 
+Propiedades: "propiedades" es la informacion dentro de la carpeta por ejemplo Nombre:  Nombre del usuario
+Métodos: metodos son palabras claves dentro de un objecto que hacen una funcion 
+Bucle for…in: for ...in de utiliza en los objetos por que las propiedades no son solo numeros como en un arra [0. 1. 2. 4]. In hace que busque o haga lo que pediste pasando por todas las propiedades.
+Notación de puntos vs notación de corchetes: notacion de puntos es seria Objecto.keyvalue. Es mas facil y rapido de usar pero se limita ya que el keyvalue tiene que ser igual a como lo usaste en el objeto. Notacion de corchetes test['test'] sirve para mas cosas ya que se pueden usar variables y no tiene que ser tan exacto como en notation de puntos. 
