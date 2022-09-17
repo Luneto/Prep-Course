@@ -1,0 +1,2 @@
+prototype: un prototype se ultiiza para evitar repetir metodos. Se agregar un metodo a la clase y se agrega como prototype a los objetos de la clase. 
+Constructors (de Clases): constructors se usan para crear un objeta usando la clase 
