@@ -1,0 +1,1 @@
+Funciones Callback: un CB se utiliza para usar el resultado de una funcion en otra funcion sin tener que escribir todo de nuevo.
